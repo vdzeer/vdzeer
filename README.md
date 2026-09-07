@@ -4,7 +4,7 @@
 
 I've been building software for 6+ years: web, mobile, and increasingly backend.
 
-These days I work on a B2B product - React Native apps on dedicated Android hardware, native Kotlin / Java bridges to payment devices, a .NET 8 backend, and a React web app. Before that: real-time collaboration for a text editor used by 200k+ people.
+These days I work on a B2B product for the Swiss market - React Native apps, a .NET 8 backend, a React web app, and a lot of payment logic in between. Before that: real-time collaboration for a text editor used by 200k+ people.
 
 I picked up .NET and Kotlin on the job, and I'm doing the same now with AI / LLM - RAG, tool calling, agents, fine-tuning.
 Projects will show up here as they're ready.
